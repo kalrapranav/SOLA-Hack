@@ -19,10 +19,10 @@ to get the documents.
 Our solution removes the middle men and make them knwo the true meaning of FREEDOM.
 
 I created a webscrapping algoritm to get the information of people not having identification to improve the research
-for our team and the data is stored in a excel file [there](https://github.com/kalrapranav/SOLA-Hack/blob/master/Research.xlsx).  
-The deck for out finla presentation is [there](https://github.com/kalrapranav/SOLA-Hack/blob/master/KeyIDSOLA%20hack%2003302019.pdf) 
+for our team and the data is stored in a excel file [there](https://github.com/kalrapranav/SOLA-Hack/blob/master/Research/Research.xlsx).  
+The deck for out final presentation is [there](https://github.com/kalrapranav/SOLA-Hack/blob/master/Deck/KeyIDSOLA%20hack%20-%20deck.pdf) 
 
-## Our Team
+## Our Team - IDSola
 1. Pranav Kalra
 2. Quinn Fuca
 3. Hai Vo
