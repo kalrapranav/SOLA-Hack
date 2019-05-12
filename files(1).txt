@@ -1,0 +1,81 @@
+Unauthorized Population 11,300,000      100%
+Mexico  5,944,000       53%
+El Salvador     655,000 6%
+Guatemala       525,000 5%
+China   362,000 3%
+Honduras        355,000 3%
+Mexico and Central America      7,593,000       67%
+Caribbean       351,000 3%
+South America   685,000 6%
+Europe/Canada/Oceania   579,000 5%
+Asia    1,774,000       16%
+Africa  318,000 3%
+Less than 5     2,009,000       18%
+5 to 9  2,246,000       20%
+10 to 14        2,722,000       24%
+15 to 19        1,936,000       17%
+20 or more      2,387,000       21%
+Under 16        803,000 7%
+16 to 24        1,653,000       15%
+25 to 34        2,935,000       26%
+35 to 44        2,839,000       25%
+45 to 54        1,725,000       15%
+55 and over     1,346,000       12%
+Female  5,293,000       47%
+Population ages 15 and older    10,636,000      100%
+Reside with at least one U.S.-citizen child under 18    3,261,000       31%
+Reside with noncitizen children only under 18   697,000 7%
+Reside with no children         6,678,000       63%
+Population ages 15 and older    10,636,000      100%
+Never married   4,276,000       40%
+Married to a U.S. citizen       1,247,000       12%
+Married to a legal permanent resident (LPR)     746,000 7%
+Married to non-U.S. citizen/non-LPR     2,285,000       21%
+Divorced, separated, widowed    2,082,000       20%
+Population ages 3 to 17 1,092,000       100%
+Enrolled        1,002,000       92%
+Not enrolled    90,000  8%
+Population ages 3 to 12 438,000 100%
+Enrolled        385,000 88%
+Not enrolled    53,000  12%
+Population ages 13 to 17        654,000 100%
+Enrolled        617,000 94%
+Not enrolled    38,000  6%
+Population ages 18 to 24        1,325,000       100%
+Enrolled        497,000 37%
+Not enrolled    828,000 63%
+Population ages 25 and older    8,844,000       100%
+0-5 grade       1,138,000       13%
+6-8 grade       1,556,000       18%
+9-12 grade      1,422,000       16%
+High school diploma or GED      2,182,000       25%
+Some college or associate&rsquo;s degree        1,178,000       13%
+Bachelor&rsquo;s, graduate, or professional degree      1,368,000       15%
+Population ages 5 and older     11,214,000      100%
+Speak only English      1,063,000       9%
+Speak English "very well"       2,978,000       27%
+Speak English "well"    2,281,000       20%
+Speak English "not well"/"not at all"   4,891,000       44%
+Population ages 5 and older     11,214,000      100%
+Spanish 7,913,000       71%
+English 1,069,000       10%
+Chinese 371,000 3%
+Tagalog 247,000 2%
+Korean  152,000 1%
+Civilian population ages 16 and older   10,491,000      100%
+Employed        7,003,000       67%
+Unemployed      546,000 5%
+Not in the labor force  2,942,000       28%
+Civilian employed population ages 16 and older  7,003,000       100%
+Accommodation and food services, arts, entertainment, and recreation    1,364,000       19%
+Construction    1,194,000       17%
+Professional, scientific, management, administrative, and waste management services     1,069,000   15%
+Manufacturing   939,000 13%
+Retail trade    737,000 11%
+Below 50% of the poverty level  1,351,000       12%
+50-99% of the poverty level     1,828,000       16%
+100-149% of the poverty level   1,868,000       17%
+150-199% of the poverty level   1,682,000       15%
+At or above 200% of the poverty level   4,570,000       40%
+Uninsured       5,993,000       53%
+Homeowner       3,799,000       34%
